@@ -2,10 +2,10 @@
 ## At the moment I find myself studying JS, React and TypeScript.
 
 <a href="https://github.com/0tavioPascoal/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0tavioPascoal" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=0tavioPascoal" />
 </a>
 <a href="https://github.com/0tavioPascoal/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0tavioPascoal&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0tavioPascoal&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
