@@ -9,7 +9,7 @@
 </a>
 
 
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,cs,ts,react,next)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,ts,react,next,java)](https://skills.thijs.gg)
   
  
 <div> 
