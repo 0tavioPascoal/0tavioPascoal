@@ -1,5 +1,5 @@
 ## Hello, I'm Otávio Pascoal!
-## At the moment I find myself studying JS, React and TypeScript.
+## 
 
 <a href="https://github.com/0tavioPascoal/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=0tavioPascoal" />
