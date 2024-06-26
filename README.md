@@ -1,5 +1,6 @@
 ## I'm Otávio Pascoal
 
+"Obsession beats talent every time..."
 
 
 <!--<a href="https://github.com/0tavioPascoal/github-readme-stats">
