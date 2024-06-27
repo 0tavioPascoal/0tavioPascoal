@@ -1,4 +1,4 @@
-## I'm Otávio Pascoal
+## I'm Otávio Pascoal 👋
 
 I am an IT technician at the city hall of the tourist resort of Barra Bonita, I like building  projects in my time free. I am interested in back-end developing and Front-end developing.
 
