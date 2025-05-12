@@ -14,7 +14,7 @@ I am a computer technician at the city hall of the Barra Bonita tourist resort, 
 </div>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,java,spring,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,java,spring,postgres,cs)](https://skillicons.dev)
   
 ## Contact-me
 <div> 
