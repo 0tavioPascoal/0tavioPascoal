@@ -1,9 +1,8 @@
 <h1  align="center">  I'm Otávio Pascoal 👋 </h1>
 
 <p align="center">
-   I am a computer technician at the city hall of the Barra Bonita tourist resort, I like building  projects in my time free. I am interested in back-end developing and Front-end developing.
+   I'm a computer technician and robotics assistant at the SESI-SP school in Igaraçu do Tiete, and I enjoy developing projects in my spare time. I'm interested in both back-end and front-end development.
 </p>
-
 
 <div align="center"> 
   <a href="https://www.instagram.com/taviinsx_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
