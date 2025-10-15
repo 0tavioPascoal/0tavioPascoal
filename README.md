@@ -1,7 +1,7 @@
 <h1  align="center">  I'm Otávio Pascoal 👋 </h1>
 
 <p align="center">
-   I'm a computer technician and robotics assistant at the SESI-SP school in Igaraçu do Tiete, and I enjoy developing projects in my spare time. I'm interested in both back-end and front-end development.
+I'm a systems analyst at Zella Sistemas in Barra Bonita, São Paulo, and I enjoy developing projects in my spare time. I'm interested in both back-end and front-end development.
 </p>
 
 <div align="center"> 
