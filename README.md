@@ -39,6 +39,7 @@
  **Banco de Dados & Infra:**  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-4479A1?style=flat&logo=sqlserver&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
  **Versionamento & Ferramentas:**  
