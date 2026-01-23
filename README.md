@@ -51,5 +51,5 @@
 ### 📊 Most Used Technologies
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=0tavioPascoal&layout=compact&langs_count=8&theme=dark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0tavioPascoal&hide_progress=true&theme=dark" />
 </p>
